@@ -1,1 +1,27 @@
 
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Database
+*.db
+data/
+
+# Node.js
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Environment
+.env
